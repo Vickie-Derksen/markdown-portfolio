@@ -1,0 +1,13 @@
+## Here is a list of some of my favorite things!
+- Playing Pickleball
+- Swimming
+- Listening to audiobooks, mostly fantasy and science ficiton
+- Learning new things
+  - Programming languages
+    -Javascript
+    -Python
+    -Ruby
+  - Data visualization
+    -Tableau
+    -Power BI
+    -dbt
